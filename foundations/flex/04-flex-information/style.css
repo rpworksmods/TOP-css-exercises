@@ -5,7 +5,7 @@ body {
 
 .container {
   display: flex;
-  margin:40px;
+  margin:32px;
 }
 
 .item {
@@ -18,7 +18,9 @@ img {
 }
 
 .item {
-  padding:10px;
+  padding:52px;
+  width: 200px;
+  flex: 1;
 }
 
 .title {
